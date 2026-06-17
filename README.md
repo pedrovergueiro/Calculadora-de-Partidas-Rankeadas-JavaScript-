@@ -1,10 +1,8 @@
 # Calculadora de Partidas Rankeadas
 
-Uma calculadora em JavaScript que recebe o número de vitórias e derrotas de partidas rankeadas e retorna o saldo e a classificação do jogador.
+Calculadora em JavaScript que recebe vitórias e derrotas de partidas rankeadas e retorna o saldo e a classificação do jogador.
 
-Projeto simples que fiz durante os estudos de JavaScript — mas foi útil pra praticar lógica condicional e manipulação de dados básica.
-
-## Como usar
+Projeto pequeno de estudo de JavaScript — mas foi onde entendi como lógica condicional funciona de forma mais fluida em JS do que em Python.
 
 ```bash
 node index.js
